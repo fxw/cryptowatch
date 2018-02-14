@@ -6,10 +6,10 @@ var config = {
 
 // exchange, currency pair, html element id
 var charts = [
-    ['bitfinex', 'btcusd', 'one'],
-    ['kraken', 'btceur', 'two'],
-    ['okcoin', 'btccny', 'three'],
-    ['okcoin', 'btcusd-quarterly-futures', 'four']
+    ['bittrex', 'ltcusdt', 'one'],
+    ['bittrex', 'ethusdt', 'two'],
+    ['bittrex', 'btcusdt', 'three'],
+    ['bittrex', 'xrpusdt', 'four']
 ]
 
 // create all charts
